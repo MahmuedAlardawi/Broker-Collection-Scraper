@@ -34,7 +34,7 @@ Before running this project, ensure the following tools are installed:
    node scraper.js
 
 ## Parametrs
-In the scraper.js file you can modify the parameters:
+In the end of scraper.js file you can modify the parameters:
   ```javascript
   const license = 0
   const mediator = 0

@@ -3,6 +3,10 @@ Real Estate Broker Collection Scraper
 
 **data source [real estate broker collection](https://eservicesredp.rega.gov.sa/auth/queries/Brokerage)**
 
+## Used Dependances
+- Puppeteer
+- fs
+
 ## Description:
 This project uses Puppeteer to scrape data from a website and store it in a JSON file. It allows you to automate data extraction, which can be customized based on specific parameters.
 

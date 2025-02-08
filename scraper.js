@@ -208,7 +208,7 @@ const licenses_en = [
 // Input parameters
 const license = 0
 const mediator = 0
-const max_records = 11 // eneter 'Infinity' to scrape all available recoreds
+const max_records = 200 // eneter 'Infinity' to scrape all available recoreds
 const filePath = `${licenses_en[license]}-${max_records}_recoreds.json`;
 
 
